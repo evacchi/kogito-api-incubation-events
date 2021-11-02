@@ -42,13 +42,13 @@ public class RuleUnitServiceEventListener {
     // on:
     //   match created
     //   match cancelled
-    //   agenda group popped
-    //   agenda group pushed
+    //   agenda group popped **
+    //   agenda group pushed **
 
     // before|after:
     //   match fired
-    //   rule flow group activated
-    //   rule flow group deactivated
+    //   rule flow group activated **
+    //   rule flow group deactivated **
 
 
     // Match type:
